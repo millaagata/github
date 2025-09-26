@@ -1,0 +1,7 @@
+main: principal
+merge: incorporar funcionalidades diferentes no main
+commit: mudanças prontas para subir pro repositório
+commit and push: efetivamente sobe isso pro remoto
+commit and sync: sincroniza o repositório remoto com o local (espelhado)
+git config --global user.name "millaagata"
+git config --global user.email "millaagatabragasilva@gmail.com"
